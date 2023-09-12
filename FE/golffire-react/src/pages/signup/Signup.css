@@ -1,0 +1,46 @@
+/* Signup CSS */
+#Signup {
+  height: calc(100vh - 4rem);
+  display: flex;
+  justify-content: center;
+}
+
+/* Signupchoice CSS */
+#SignupChoice {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* SignupEmail1 CSS */
+#SignupEmail1 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* SignupEmail2 CSS */
+#SignupEmail2 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* SignupInfo CSS */
+#SignupInfo {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

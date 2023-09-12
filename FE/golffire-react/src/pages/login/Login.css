@@ -1,0 +1,14 @@
+/* Login CSS */
+#Login {
+  height: calc(100vh - 4rem);
+  display: flex;
+  justify-content: center;
+}
+
+/* FindPassword CSS */
+#FindPassword {
+  height: calc(100vh - 4rem);
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
